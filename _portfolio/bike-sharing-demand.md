@@ -409,7 +409,7 @@ msno.matrix(analysis_data_set,figsize=(12,5))
 
 
 
-![png](output_15_1.png)
+![png](bike-sharing-demand/output_15_1.png)
 
 
 ### Correlation
@@ -458,7 +458,7 @@ sns.heatmap(corr_matrix, cmap=cmap)
 
 
 
-![png](output_18_1.png)
+![png](bike-sharing-demand/output_18_1.png)
 
 
 
@@ -486,7 +486,7 @@ g.set(xticklabels=[])
 
 
 
-![png](output_19_1.png)
+![png](bike-sharing-demand/output_19_1.png)
 
 
 ### Inference:
@@ -520,7 +520,7 @@ bxplot(analysis_data_set)
 ```
 
 
-![png](output_23_0.png)
+![png](bike-sharing-demand/output_23_0.png)
 
 
 Remove values on all features which are above 3 Standard deviations
@@ -537,7 +537,7 @@ bxplot(analysis_data_set)
 ```
 
 
-![png](output_26_0.png)
+![png](bike-sharing-demand/output_26_0.png)
 
 
 Addtional informations on the data.
@@ -556,7 +556,7 @@ sns.catplot(x='hour',y='count', hue="season", data=analysis_data_set, kind="poin
 
 
 
-![png](output_28_1.png)
+![png](bike-sharing-demand/output_28_1.png)
 
 
 ### Inference :
@@ -579,7 +579,7 @@ sns.catplot(x='hour',y='count',hue="weekday",data=analysis_data_set, kind="point
 
 
 
-![png](output_30_1.png)
+![png](bike-sharing-demand/output_30_1.png)
 
 
 ### Inference :
@@ -602,7 +602,7 @@ sns.barplot(x="month", y="count", data=analysis_data_set, capsize=0.2)
 
 
 
-![png](output_32_1.png)
+![png](bike-sharing-demand/output_32_1.png)
 
 
 #### Inference :
