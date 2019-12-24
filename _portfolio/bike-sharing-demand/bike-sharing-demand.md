@@ -562,7 +562,7 @@ sns.catplot(x='hour',y='count', hue="season", data=analysis_data_set, kind="poin
 
 
 
-![png](output_28_1.png)
+![png](/bike-sharing-demand/output_28_1.png)
 
 
 ### Inference :
