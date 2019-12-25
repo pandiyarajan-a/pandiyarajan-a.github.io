@@ -3,6 +3,8 @@ title: "Bike Sharing Demand"
 collection: portfolio
 ---
 
+Forecast use of a city bikeshare system.
+
 
 ```python
 import warnings
