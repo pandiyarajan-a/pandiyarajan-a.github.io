@@ -1,6 +1,6 @@
 ---
 title: "Bike Sharing Demand"
-collection: portfolio
+collection: projects
 ---
 
 Forecast use of a city bikeshare system.
