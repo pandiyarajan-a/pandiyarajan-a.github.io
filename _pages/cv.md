@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+
 ## Experience 
 ---
 * Tata Elxsi Ltd  
   Specialist  
-  2017 – present   
+  2017 – Present   
 
 	> **Jaguar Land Rover - Research Engineer**, Warwick University
-	> Working on Image processing and image classification models for eMirror 	project.
+	> Working on Image processing and image classification models for electronic mirror project.
 
 	> **Fiat Chrysler Automotive - Machine learning Engineer** 
 	> Developed digital image processing algorithm for potholes on asphalt pavements. And generated models for a mobile app that classify machinery.
